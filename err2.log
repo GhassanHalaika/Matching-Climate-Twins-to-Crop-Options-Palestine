@@ -1,0 +1,14 @@
+2026-04-28 15:11:30.756 No ASGI app assignments found in C:\Users\Lenovo\Documents\Data\climate_twins_streamlit\app.py
+2026-04-28 15:11:30.811 Filtered 39 packages down to 1 candidates for component scanning
+2026-04-28 15:11:30.812 Scanning 1 candidate packages for component manifests using 1 worker threads
+2026-04-28 15:11:30.836 Found 0 component manifests total
+2026-04-28 15:11:30.837 No asset roots to watch
+2026-04-28 15:11:30.837 File watching not started
+2026-04-28 15:11:30.838 Starting new event loop for server
+2026-04-28 15:11:30.839 Starting server...
+2026-04-28 15:11:30.839 Serving static content from C:\Users\Lenovo\Documents\Data\climate.venv\Lib\site-packages\streamlit\static
+2026-04-28 15:11:30.843 Server started on port 8501
+2026-04-28 15:11:30.844 Runtime state: RuntimeState.INITIAL -> RuntimeState.NO_SESSIONS_CONNECTED
+2026-04-28 15:11:31.052 Did not auto detect external IP.
+Please go to https://docs.streamlit.io/ for debugging hints.
+2026-04-28 15:11:31.056 Setting up signal handler
